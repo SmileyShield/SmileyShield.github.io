@@ -6,6 +6,10 @@ button
   opacity: 0.95;
 }
 
+signup:hover {
+  backgrond: color: rgba(51,64.175,76.8)
+}
+
 Text {
   position: absolute;
   TOP:912px;
