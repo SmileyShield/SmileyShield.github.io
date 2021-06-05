@@ -1,0 +1,25 @@
+button
+{
+  border: none;
+  outline:none;
+  background:none;
+  opacity: 0.95;
+}
+
+Text {
+  position: absolute;
+  TOP:912px;
+  opacity: 0.8;
+  left: 65px;
+  font-size: 18px;
+  color:#1E7036;
+}
+
+body {
+    font-family: Rubik, -apple-system, BlinkMacSystemFont, "Helvetica Neue", Roboto, system-ui, sans-serif;
+    --tw-bg-opacity: 1;
+    background-color: rgba(51,64.175,76.5,var(--tw-bg-opacity));
+    --tw-text-opacity: 1;
+    color: rgba(201.756,209.1,216.444,var(--tw-text-opacity));
+    letter-spacing: 0.015em;
+}
